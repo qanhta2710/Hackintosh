@@ -38,6 +38,9 @@ An EFI for Dell Latitude 3510 i3-10110U Comet Lake with OpenCore
 # Alternative Microphone:
 I use my iPhone as an alternative microphone through USB connect and it's working perfectly
 ![Screen Shot 2021-08-09 at 18 09 41](https://user-images.githubusercontent.com/26887540/128697598-d0143706-7fd3-4896-9206-d2ed9e6657ff.png)
+# Alternative Brightness Keys:
+I use Karabiner to remap the brightness keys but it doesn't work anymore on Windows 11 
+![Screen Shot 2021-08-09 at 22 42 33](https://user-images.githubusercontent.com/26887540/128734185-62d2ba51-dbdb-4c98-b52c-1078bd71fcf0.png)
 # ❗IMPORTANT:
 ❗ I'm not responsible for any problems that occur. The decision is up to you
 # Notices:
