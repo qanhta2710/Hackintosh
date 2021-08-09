@@ -1,6 +1,20 @@
 # Hackintosh
 An EFI for Dell Latitude 3510 i3-10110U Comet Lake with OpenCore
 ![Screen Shot 2021-08-09 at 17 54 25](https://user-images.githubusercontent.com/26887540/128696055-15f32a4e-9acc-4e9e-946f-fbc0496f7221.png)
+# System Information:
+| Component        | Brank                              |
+| ---------------- | ---------------------------------- |
+| CPU              | Intel i3 10110U CML                |
+| iGPU             | Intel Graphics UHD                 |
+| Audio            | Realtek ALC236                     |
+| Ram              | 4 GB 2667 MHz DDR4                 |
+| Wifi             |                                    |
+| Bluetooth        |                                    |
+| SSD NVMe         | PNY CS1031 256GB SSD               |
+| SMBIOS           | MacBookPro 16,1                    |
+| BootLoader       | OpenCore 0.7.3                     |
+| macOS            | Big Sur 11.5.1                     |
+| Windows          | Windows 11                         |
 # ✅ Working:
 - Touchpad ✅
 - Shutdown/Restart/Sleep ✅
