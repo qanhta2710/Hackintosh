@@ -43,4 +43,13 @@ I use my iPhone as an alternative microphone through USB connect and it's workin
 # Notices:
 - You should build your own EFI because each computer is different
 - If you use my EFI, you may want to disable secureboot 
-
+# BIOS Settings:
+  # Enable:
+  - TPM 2.0
+  - SATA Mode: AHCI
+  - VT-x
+  - Hyper-Threading
+  # Disable:
+  - VT-d
+  - Secure Boot
+  - Fast Boot: Thorough
