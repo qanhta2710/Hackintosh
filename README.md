@@ -45,7 +45,6 @@ I use Karabiner to remap the brightness keys but it doesn't work anymore on Wind
 ❗ I'm not responsible for any problems that occur. The decision is up to you
 # Notices:
 - You should build your own EFI because each computer is different
-- If you use my EFI, you may want to disable secureboot 
 # BIOS Settings:
   # Enable:
   - TPM 2.0
