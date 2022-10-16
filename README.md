@@ -15,9 +15,9 @@ An EFI for Dell Latitude 3510 i3-10110U Comet Lake with OpenCore
 | Ethernet         | Realtek PCIe GbE Family Controller |
 | SSD NVMe         | PNY CS1031 256GB SSD               |
 | SMBIOS           | MacBookPro 16,1                    |
-| BootLoader       | OpenCore 0.7.3                     |
-| macOS            | Big Sur 11.5.1                     |
-| Windows          | Windows 11                         |
+| BootLoader       | OpenCore_NO_ACPI 0.8.5             |
+| macOS            | Monterey 12.6                      |
+| Windows          | Windows 10                         |
 # Working ✅:
 - ✅ Touchpad 
 - ✅ Shutdown/Restart/Sleep 
