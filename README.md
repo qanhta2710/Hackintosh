@@ -1,6 +1,7 @@
 # Hackintosh
 An EFI for Dell Latitude 3510 i3-10110U Comet Lake with OpenCore
-![image](https://user-images.githubusercontent.com/26887540/196015003-1ac9f2d4-6389-4c7c-b81a-7cb75f7a5cb8.png)
+![image](https://github.com/alluka3101/Hackintosh/assets/26887540/e251496e-e0e9-4819-af78-864a752da3f5)
+
 # System Information:
 | Component        | Brank                              |
 | ---------------- | ---------------------------------- |
