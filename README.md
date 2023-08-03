@@ -12,7 +12,8 @@ An EFI for Dell Latitude 3510 i3-10110U Comet Lake with OpenCore
 | Wifi             | Intel(R) Wi-Fi 6 AX201 160MHz      |
 | Bluetooth        | Intel(R) Wireless Bluetooth(R)     |
 | Ethernet         | Realtek PCIe GbE Family Controller |
-| SSD NVMe         | PNY CS1031 256GB SSD               |
+| SSD NVMe         | Samsung 970 EVO Plus 1TB           |
+| SSD SATA         | Samsung 870 EVO 250GB              |
 | SMBIOS           | MacBookPro 16,1                    |
 | BootLoader       | OpenCore 0.9.3                     |
 | macOS            | Monterey 12.6.7                    |
