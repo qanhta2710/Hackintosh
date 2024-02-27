@@ -17,7 +17,7 @@ An EFI for Dell Latitude 3510 i3-10110U Comet Lake with OpenCore
 | SMBIOS           | MacBookPro 16,1                    |
 | BootLoader       | OpenCore 0.9.3                     |
 | macOS            | Monterey 12.6.7                    |
-| Windows          | Windows 10                         |
+| Windows          | Windows 11                         |
 # Working ✅:
 - ✅ Touchpad 
 - ✅ Shutdown/Restart/Sleep 
@@ -40,6 +40,7 @@ An EFI for Dell Latitude 3510 i3-10110U Comet Lake with OpenCore
   - VT-x
   - Hyper-Threading
   - VT-d
+  - TPM 2.0
+  - Secure Boot: Tutorial https://github.com/perez987/OpenCore-and-UEFI-Secure-Boot
   # Disable:
-  - Secure Boot
   - Fast Boot: Auto
