@@ -1,6 +1,7 @@
 # Hackintosh
 An EFI for Dell Latitude 3510 i3-10110U Comet Lake with OpenCore
-![image](https://github.com/alluka3101/Hackintosh/assets/26887540/e251496e-e0e9-4819-af78-864a752da3f5)
+![image](https://github.com/qanhta2710/Hackintosh/assets/26887540/cac8af28-e2d3-4c1e-b604-567d34bb0a8b)
+
 
 # System Information:
 | Component        | Brank                              |
@@ -8,15 +9,15 @@ An EFI for Dell Latitude 3510 i3-10110U Comet Lake with OpenCore
 | CPU              | Intel i3 10110U CML                |
 | iGPU             | Intel Graphics UHD                 |
 | Audio            | Realtek ALC236                     |
-| Ram              | 4 GB 2667 MHz DDR4                 |
+| Ram              | 16 GB 2667 MHz DDR4                |
 | Wifi             | Intel(R) Wi-Fi 6 AX201 160MHz      |
 | Bluetooth        | Intel(R) Wireless Bluetooth(R)     |
 | Ethernet         | Realtek PCIe GbE Family Controller |
 | SSD NVMe         | Samsung 970 EVO Plus 1TB           |
 | SSD SATA         | Samsung 870 EVO 250GB              |
 | SMBIOS           | MacBookPro 16,1                    |
-| BootLoader       | OpenCore 0.9.3                     |
-| macOS            | Monterey 12.6.7                    |
+| BootLoader       | OpenCore 0.9.8                     |
+| macOS            | Ventura 13.6.4                     |
 | Windows          | Windows 11                         |
 # Working ✅:
 - ✅ Touchpad 
@@ -31,9 +32,8 @@ An EFI for Dell Latitude 3510 i3-10110U Comet Lake with OpenCore
 
 # Not Working ❌:
 - ❌ Microphone (Intel Smart Sound Technology is not supported)
-- ❌ AirDrop (Can find devices but cannot connect)
+- ❌ AirDrop
 - (?) Handoff (Not test)
-# Alternative Microphone: Use an earphone which has mic or just buy an USB microphone
 # BIOS Settings:
   # Enable:
   - SATA Mode: AHCI
